@@ -1,3 +1,9 @@
+GROUP 11
+1) SMIT PATEL (spatel68@ncsu.edu)
+2) MARMIK PATEL (mpatel68@ncsu.edu)
+3) YASH CHANDRANI (ychandr@ncsu.edu)
+4) Ashaka Mehta (atmehta@ncsu.edu)
+
 Link of 5 projects to grade:
 
 -   [Teacher's Pet Bot](https://github.com/chandur626/TeachersPetBot)
