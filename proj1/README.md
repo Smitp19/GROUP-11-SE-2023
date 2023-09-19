@@ -989,7 +989,7 @@ and step-by-step solutions for problems and error messages?</td>
 <tr class="odd">
 <td>If the software can be used as a library, package or service by
 other software, is there a comprehensive API documentation?</td>
-<td>3</td>
+<td>0</td>
 <td colspan="2"></td>
 </tr>
 <tr class="even">
@@ -1660,7 +1660,7 @@ and step-by-step solutions for problems and error messages?</td>
 <tr class="odd">
 <td>If the software can be used as a library, package or service by
 other software, is there a comprehensive API documentation?</td>
-<td>3</td>
+<td>0</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2330,7 +2330,7 @@ and step-by-step solutions for problems and error messages?</td>
 <tr class="odd">
 <td>If the software can be used as a library, package or service by
 other software, is there a comprehensive API documentation?</td>
-<td>3</td>
+<td>0</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3002,7 +3002,7 @@ and step-by-step solutions for problems and error messages?</td>
 <tr class="odd">
 <td>If the software can be used as a library, package or service by
 other software, is there a comprehensive API documentation?</td>
-<td>3</td>
+<td>0</td>
 <td></td>
 </tr>
 <tr class="even">
