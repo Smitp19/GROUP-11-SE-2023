@@ -242,7 +242,7 @@ developers and others?</td>
 <tr class="even">
 <td>Is the name of the project/software unique?</td>
 <td>2</td>
-<td></td>
+<td>We searched on Google and GitHub and found some projects with similar names</td>
 </tr>
 <tr class="odd">
 <td>Is the project/software name free from trademark violations?</td>
@@ -916,7 +916,7 @@ developers and others?</td>
 <tr class="even">
 <td>Is the name of the project/software unique?</td>
 <td>2</td>
-<td colspan="2"></td>
+<td>We searched on Google and GitHub and found some projects with similar names</td>
 </tr>
 <tr class="odd">
 <td>Is the project/software name free from trademark violations?</td>
@@ -1587,7 +1587,7 @@ developers and others?</td>
 <tr class="even">
 <td>Is the name of the project/software unique?</td>
 <td>3</td>
-<td></td>
+<td>We searched on Google and GitHub and did not find any projects with similar names</td>
 </tr>
 <tr class="odd">
 <td>Is the project/software name free from trademark violations?</td>
@@ -2257,7 +2257,7 @@ developers and others?</td>
 <tr class="even">
 <td>Is the name of the project/software unique?</td>
 <td>1</td>
-<td></td>
+<td>We searched on Google and GitHub and found projects with similar name.</td>
 </tr>
 <tr class="odd">
 <td>Is the project/software name free from trademark violations?</td>
@@ -2927,7 +2927,7 @@ developers and others?</td>
 <tr class="even">
 <td>Is the name of the project/software unique?</td>
 <td>1</td>
-<td></td>
+<td>We searched on Google and GitHub and found projects with similar name.</td>
 </tr>
 <tr class="odd">
 <td>Is the project/software name free from trademark violations?</td>
