@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Slash Mini-Version</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" href="/static/style.css">
+	<link rel="stylesheet" href="/static/style.css"><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" >
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" ></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" ></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"  ></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      
+    <style>
+        .item-list {
+         text-align:center;
+         width: 100%;
+         margin-top: 20px;
+         padding: 5px 5px 5px 5px;
+         }
+         .td,th {
+         border: 1px solid;
+         padding: 7px;
+         }
+         .item-list tr:nth-child(even){background-color: rgb(232, 255, 235);}
+
+         .col-sm
+         {
+            padding-top: 25px;
+            
+
+         }
+         .results
+         {
+
+         padding-left: 60px;   
+         width: 3800px;  
+
+         }
+
+         .button 
+         {
+            border: none;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+         }
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+ 
+}
+#choice1
+{
+   width: 200px;
+
+}
+.button1:hover {
+  background-color: rgb(63, 155, 112);
+  color: white;
+}
+
+    </style>
+    
+   </head>
+   <body>   
+   
+    <div class="container" id="abc">
+        <div class="row">
+          <div class="col-sm">
+            <div class="form-group">
+               <label class="control-label col-sm-offset-2 col-sm-2" for="company"></label>
+                <div class="col-sm-6 col-md-4">
+                  <form action = "/filter?product_name={{prod}}" method = "post" id="filter1">
+                  <select id="choice1" name="sort" class="form-control">
+                    <option value="default" >Sort by</option>
+                    <option value="rades" >Rating High to Low</option>
+                    <option value="raasc" >Rating Low to High</option>
+                    <option value="pasc">Price Low to High</option>
+                    <option value="pdes">Price High to Low</option>
+                    <br>
+                  </select>
+                </div>
+              </div>
+           
+          </div>
+          <div class="col-sm">
+            <div class="form-group">
+               <label class="control-label col-sm-offset-2 col-sm-2" for="company"></label>
+                <div class="col-sm-6 col-md-4">
+                  <select id="choice1" name="currency" class="form-control">
+                    <option value="usd" >USD</option>
+                    <option value="inr">INR</option>
+                    <option value="euro">EURO</option>
+                    <option value="yuan">YUAN</option>
+                    <option value="aud">AUD</option>
+                    <option value="pound">POUND</option>
+                    <br>
+                  </select>
+                </div>
+              </div>
+          </div>
+          <div class="col-sm">
+    
+            <div class="form-group">
+               <label class="control-label col-sm-offset-2 col-sm-2" for="company"></label>
+                <div class="col-sm-6 col-md-4">
+                  <select id="choice1" name="num" class="form-control">
+                    <option value="default">Result Length</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                  </select>
+                </div>
+              </div>
+
+          </div>
+          <div class="col-sm">
+            <br>
+            <input type = "submit" class="button button1" value = "Filter Search" />
+         </form>  
+         </div>
+          <!-- <div class="col-sm">
+            <form action = "/csv?product_name={{prod}}" method = "post" id="csv">
+            <br>
+            <input type = "submit" class="button button1" value = "Convert into CSV" />
+         </form>  
+         </div> -->
+        </div>
+      </div>
+   </form>
+   <hr>
+    
+   <br>
+      <div class="results">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+           <table border='1' class="item-list" >
+              <thead>
+                 <tr>
+                    <th colspan="5">Products</th>
+                 </tr>
+                 <tr>
+                    <td>Timestamp</td>
+                    <td>Title</td>
+                    <td>Price</td>
+                    <td>Website</td>
+                    <td>Rating</td>
+               </tr>
+              </thead>
+              <tbody>
+                
+               {% for product in data %}
+               <tr>
+                  <td>{{product.timestamp}}</td>
+                  <td><a href={{product.link}} target="_blank">{{product.title}}</a></td>
+                  <td>{{product.price}}</td>
+                  <td>{{product.website}}</td>
+                  <td>{{product.rating}}</td>
+               </tr>
+
+               {% endfor %}
+
+              </tbody>
+           </table>
+        </div>
+        <div class="col-md-4"></div>
+     </div>
+
+</body>
+</html>

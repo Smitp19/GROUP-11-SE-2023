@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Slash Mini-Version</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" href="/static/style.css">
+	<link rel="stylesheet" href="/static/style.css"><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" >
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" ></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" ></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"  ></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      
+    <style>
+
+#header{
+  font-family:Trebuchet MS, sa ns-serif;
+  font-size:32px;
+  color:#333;
+  font-style:italic;
+  font-weight:bold;
+  text-align:center;
+  padding-right:10px;
+  padding-top:35px;
+  padding-left:10px;
+  }
+
+  .container1
+  {
+      height: 270px;
+      width: 100%;
+  }
+  
+  .sb-example-1 .search {
+      width: 75%;
+      position: relative;
+      display: flex;
+      padding-top:15px;
+      padding-left:380px;
+    
+    }
+  
+    .sb-example-1 .searchTerm {
+      width: 100%;
+      border: 3px solid rgb(63, 155, 112);
+      border-right: none;
+      padding: 5px;
+      border-radius: 5px 0 0 5px;
+      outline: none;
+      color:  rgb(63, 155, 112);
+    }
+    .sb-example-1 .searchTerm:focus{
+      color: green;
+    }
+
+    .sb-example-1 .searchButton {
+      width: 40px;
+      height: 50px;
+      border: 1px solid rgb(63, 155, 112);
+      background: rgb(145, 228, 189);
+      text-align: center;
+      color: #fff;
+      border-radius: 0 5px 5px 0;
+      cursor: pointer;
+      font-size: 20px;
+    }
+    .sb-example-1 .searchButton i{
+      color: green;
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 30px;
+    }
+   
+    </style>
+   </head>
+   <body>   
+    <h1 id="header"> Welcome to Mini Version of SLASH! </h1>
+    <img src="/static/images/slash.png" alt="slash" style="width:40%;">
+    <br>
+    <br>
+    <hr>
+    <br>
+    
+  <!--------------Search----------------------------------------------------------------------->
+ 
+  <div class="container1" style="background-color:  rgb(232, 255, 235);"> 
+    <div class="w-100 p-3" id="header" style="background-color: rgb(232, 255, 235);">
+      <h3>What are you</h3>
+      <h3>looking for?</h3>   
+  </div>
+
+  <div class="sb-example-1">
+    <form action = "/search" method = "get">
+      <div class="search">
+         <input type="text" name="product_name" class="searchTerm" placeholder="Type here">
+         <button type="submit" class="searchButton">
+           <i class="fa fa-search"></i>
+        </button>
+      </div>
+    </form>
+   </div>
+  </div>
+   <br> 
+  <hr>
+</body>
+</html>
