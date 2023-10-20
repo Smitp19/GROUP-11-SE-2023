@@ -7,7 +7,7 @@ GROUP 11
 
 
 
-**Grading of** [Slash](https://github.com/TommasU/slash)
+**Grading of** [Slash](https://github.com/Yash-Chandrani/slash)
 
 <table>
 <colgroup>
