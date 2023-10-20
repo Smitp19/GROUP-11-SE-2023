@@ -67,7 +67,7 @@ href="https://github.com/Yash-Chandrani/slash/issues?q=is%3Aclosed"><u>https://g
 <td>DOI badge: exists</td>
 <td>3</td>
 <td><a
-href="https://doi.org/10.5281/zenodo.5739350"><u>https://doi.org/10.5281/zenodo.5739350</u></a></td>
+href="https://doi.org/10.5281/zenodo.10023318"><u>https://doi.org/10.5281/zenodo.10023318</u></a></td>
 </tr>
 <tr class="odd">
 <td>Docs: doco generated, format not ugly</td>
@@ -442,7 +442,7 @@ href="https://github.com/Yash-Chandrani/slash/branches"><u>https://github.com/Ya
 <td>Do you back-up your repository?</td>
 <td>3</td>
 <td><a
-href="https://zenodo.org/record/5739350"><u>https://zenodo.org/record/5739350</u></a></td>
+href="https://zenodo.org/record/10023318"><u>https://zenodo.org/record/10023318</u></a></td>
 </tr>
 <tr class="odd">
 <td>Do you provide publicly-available instructions for building<br />
