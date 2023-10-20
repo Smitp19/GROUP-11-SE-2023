@@ -37,31 +37,31 @@ href="https://ncsu.zoom.us/rec/share/LX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-z
 <td>Workload is spread over the whole team</td>
 <td>2</td>
 <td><a
-href="https://github.com/TommasU/slash/graphs/contributors"><u>https://github.com/TommasU/slash/graphs/contributors</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/graphs/contributors"><u>https://github.com/Yash-Chandrani/slash/graphs/contributors</u></a></td>
 </tr>
 <tr class="even">
 <td>Number of commits</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/commits/main"><u>https://github.com/TommasU/slash/commits/main</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/commits/main"><u>https://github.com/Yash-Chandrani/slash/commits/main</u></a></td>
 </tr>
 <tr class="odd">
 <td>Number of commits: by different people</td>
 <td>2</td>
 <td><a
-href="https://github.com/TommasU/slash/graphs/contributors"><u>https://github.com/TommasU/slash/graphs/contributors</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/graphs/contributors"><u>https://github.com/Yash-Chandrani/slash/graphs/contributors</u></a></td>
 </tr>
 <tr class="even">
 <td>Issues reports: there are many</td>
 <td>2</td>
 <td><a
-href="https://github.com/TommasU/slash/issues?q=is%3Aissue"><u>https://github.com/TommasU/slash/issues?q=is%3Aissue</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/issues"><u>https://github.com/Yash-Chandrani/slash/issues</u></a></td>
 </tr>
 <tr class="odd">
 <td>Issues are being closed</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed"><u>https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/issues?q=is%3Aclosed"><u>https://github.com/Yash-Chandrani/slash/issues?q=is%3Aclosed</u></a></td>
 </tr>
 <tr class="even">
 <td>DOI badge: exists</td>
@@ -73,14 +73,14 @@ href="https://doi.org/10.5281/zenodo.5739350"><u>https://doi.org/10.5281/zenodo.
 <td>Docs: doco generated, format not ugly</td>
 <td>2</td>
 <td><a
-href="https://github.com/TommasU/slash#readme"><u>https://github.com/TommasU/slash#readme</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#readme"><u>https://github.com/Yash-Chandrani/slash#readme</u></a></td>
 </tr>
 <tr class="even">
 <td>Docs: what: point descriptions of each class/function (in
 isolation)</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash#readme"><u>https://github.com/TommasU/slash#readme</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#readme"><u>https://github.com/Yash-Chandrani/slash#readme</u></a></td>
 </tr>
 <tr class="odd">
 <td>Docs: how: for common use cases X,Y,Z mini-tutorials showing worked
@@ -111,68 +111,67 @@ href="https://ncsu.zoom.us/rec/share/LX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-z
 <td>Use of style checkers</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/.github/workflows/style_checker.yml"><u>https://github.com/TommasU/slash/blob/main/.github/workflows/style_checker.yml</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/.github/workflows/style_checker.yml"><u>https://github.com/Yash-Chandrani/slash/blob/main/.github/workflows/style_checker.yml</u></a></td>
 </tr>
 <tr class="even">
 <td>Use of code formatters.</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/.github/workflows/pylint.yml"><u>https://github.com/TommasU/slash/blob/main/.github/workflows/pylint.yml</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/.github/workflows/pylint.yml"><u>https://github.com/Yash-Chandrani/slash/blob/main/.github/workflows/pylint.yml</u></a></td>
 </tr>
 <tr class="odd">
 <td>Use of syntax checkers.</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/.github/workflows/pylint.yml"><u>https://github.com/TommasU/slash/blob/main/.github/workflows/pylint.yml</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/.github/workflows/pylint.yml"><u>https://github.com/Yash-Chandrani/slash/blob/main/.github/workflows/pylint.yml</u></a></td>
 </tr>
 <tr class="even">
 <td>Use of code coverage</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/.github/workflows/code_cov.yml"><u>https://github.com/TommasU/slash/blob/main/.github/workflows/code_cov.yml</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/.github/workflows/code_cov.yml"><u>https://github.com/Yash-Chandrani/slash/blob/main/.github/workflows/code_cov.yml</u></a></td>
 </tr>
 <tr class="odd">
 <td>Other automated analysis tools</td>
 <td>1</td>
 <td><a
-href="https://github.com/TommasU/slash/actions"><u>https://github.com/TommasU/slash/actions</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/actions"><u>https://github.com/Yash-Chandrani/slash/actions</u></a></td>
 </tr>
 <tr class="even">
 <td>Test cases exist</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/tree/main/tests"><u>https://github.com/TommasU/slash/tree/main/tests</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/tree/main/tests"><u>https://github.com/Yash-Chandrani/slash/tree/main/tests</u></a></td>
 </tr>
 <tr class="odd">
 <td>Test cases are routinely executed</td>
 <td>2</td>
 <td><a
-href="https://github.com/TommasU/slash/actions/workflows/code_cov.yml"><u>https://github.com/TommasU/slash/actions/workflows/code_cov.yml</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/actions/workflows/code_cov.yml"><u>https://github.com/Yash-Chandrani/slash/actions/workflows/code_cov.yml</u></a></td>
 </tr>
 <tr class="even">
 <td>The files CONTRIBUTING.md lists coding standards and lots of tips on
 how to extend the system without screwing things up</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md"><u>https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md</u></a></td>
+href="https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md"><u>https://github.com/Yash-Chandrani/slash/blob/main/CONTRIBUTING.md</u></a></td>
 </tr>
 <tr class="odd">
 <td>Issues are discussed before they are closed</td>
 <td>1</td>
 <td><a
-href="https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed+sort%3Acomments-desc"><u>https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed+sort%3Acomments-desc</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/issues?q=is%3Aissue+is%3Aclosed"><u>https://github.com/Yash-Chandrani/slash/issues?q=is%3Aissue+is%3Aclosed</u></a></td>
 </tr>
 <tr class="even">
 <td>Chat channel: exists</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash#email-support"><u>https://github.com/TommasU/slash#email-support</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#email-support"><u>https://github.com/Yash-Chandrani/slash#email-support</u></a></td>
 </tr>
 <tr class="odd">
 <td>Test cases: a large proportion of the issues related to handling
 failing cases.</td>
 <td>0</td>
-<td>No label of failing test case in issues<br />
 <a
 href="https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed"><u>https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed</u></a></td>
 </tr>
@@ -181,14 +180,14 @@ href="https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed"><u>https
 get to all tools and files</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/requirements.txt"><u>https://github.com/TommasU/slash/blob/main/requirements.txt</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/requirements.txt"><u>https://github.com/Yash-Chandrani/slash/blob/main/requirements.txt</u></a></td>
 </tr>
 <tr class="odd">
 <td>Evidence that the whole team is using the same tools (e.g. config
 files in the repo, updated by lots of different people)</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/requirements.txt"><u>https://github.com/TommasU/slash/blob/main/requirements.txt</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/requirements.txt"><u>https://github.com/Yash-Chandrani/slash/blob/main/requirements.txt</u></a></td>
 </tr>
 <tr class="even">
 <td>Evidence that the whole team is using the same tools (e.g. tutor can
@@ -196,27 +195,27 @@ ask anyone to share screen, they demonstrate the system running on their
 computer)</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/graphs/contributors"><u>https://github.com/TommasU/slash/graphs/contributors</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/graphs/contributors"><u>https://github.com/Yash-Chandrani/slash/graphs/contributors</u></a></td>
 </tr>
 <tr class="odd">
 <td>Evidence that the members of the team are working across multiple
 places in the code base</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/graphs/contributors"><u>https://github.com/TommasU/slash/graphs/contributors</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/graphs/contributors"><u>https://github.com/Yash-Chandrani/slash/graphs/contributors</u></a></td>
 </tr>
 <tr class="even">
 <td>Short release cycles</td>
 <td>1</td>
 <td><a
-href="https://github.com/TommasU/slash/releases"><u>https://github.com/TommasU/slash/releases</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/releases"><u>https://github.com/Yash-Chandrani/slash/releases</u></a></td>
 </tr>
 <tr class="odd">
 <td>Does the website and documentation provide a clear, high-level
 overview of your software?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/README.md"><u>https://github.com/TommasU/slash/blob/main/README.md</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/README.md"><u>https://github.com/Yash-Chandrani/slash/blob/main/README.md</u></a></td>
 </tr>
 <tr class="even">
 <td>Does the website and documentation clearly describe the type of user
@@ -239,7 +238,7 @@ developers and others?</td>
 <td>Is the project/software name free from trademark violations?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/LICENSE"><u>https://github.com/TommasU/slash/blob/main/LICENSE</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/LICENSE"><u>https://github.com/Yash-Chandrani/slash/blob/main/LICENSE</u></a></td>
 </tr>
 <tr class="even">
 <td>Is the software available as a package that can be deployed without
@@ -251,7 +250,7 @@ building it?</td>
 <td>Is your software available for free?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/LICENSE"><u>https://github.com/TommasU/slash/blob/main/LICENSE</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/LICENSE"><u>https://github.com/Yash-Chandrani/slash/blob/main/LICENSE</u></a></td>
 </tr>
 <tr class="even">
 <td>Is the source code publicly available to download, either as a
@@ -266,14 +265,14 @@ likeGitHub (https://github.com), BitBucket
 (https://sourceforge.net)</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash"><u>https://github.com/TommasU/slash</u></a></td>
+href="https://github.com/Yash-Chandrani/slash"><u>https://github.com/Yash-Chandrani/slash</u></a></td>
 </tr>
 <tr class="even">
 <td>Is the documentation clearly available on your website or within
 your software?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/README.md"><u>https://github.com/TommasU/slash/blob/main/README.md</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/README.md"><u>https://github.com/Yash-Chandrani/slash/blob/main/README.md</u></a></td>
 </tr>
 <tr class="odd">
 <td>Does the documentation include a "quick start" guide, that provides
@@ -281,7 +280,7 @@ a short overview of how to use your software with some basic examples of
 use?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash#rocket-installation"><u>https://github.com/TommasU/slash#rocket-installation</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#rocket-installation"><u>https://github.com/Yash-Chandrani/slash#rocket-installation</u></a></td>
 </tr>
 <tr class="even">
 <td>If you provide more extensive documentation, does this provide
@@ -295,7 +294,7 @@ software?</td>
 functions and options?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash#full-version-main-menu"><u>https://github.com/TommasU/slash#full-version-main-menu</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#full-version-main-menu"><u>https://github.com/Yash-Chandrani/slash#full-version-main-menu</u></a></td>
 </tr>
 <tr class="even">
 <td>Is there a troubleshooting information that describes the symptoms
@@ -314,7 +313,7 @@ other software, is there a comprehensive API documentation?</td>
 code?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash#readme"><u>https://github.com/TommasU/slash#readme</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#readme"><u>https://github.com/Yash-Chandrani/slash#readme</u></a></td>
 </tr>
 <tr class="odd">
 <td>Do you publish your release history e.g. release data, version
@@ -322,28 +321,28 @@ numbers, key features of each release etc. on your web site or in your
 documentation?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/releases"><u>https://github.com/TommasU/slash/releases</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/releases"><u>https://github.com/Yash-Chandrani/slash/releases</u></a></td>
 </tr>
 <tr class="even">
 <td>Does your software describe how a user can get help with using your
 software?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/tree/main#readme"><u>https://github.com/TommasU/slash/tree/main#readme</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/tree/main#readme"><u>https://github.com/Yash-Chandrani/slash/tree/main#readme</u></a></td>
 </tr>
 <tr class="odd">
 <td>Does your website and documentation describe what support, if any,
 you provide to users and developers?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/tree/main#email-support"><u>https://github.com/TommasU/slash/tree/main#email-support</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/tree/main#email-support"><u>https://github.com/Yash-Chandrani/slash/tree/main#email-support</u></a></td>
 </tr>
 <tr class="even">
 <td>Does your project have an e-mail address or forum that is solely for
 supporting users?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/tree/main#email-support"><u>https://github.com/TommasU/slash/tree/main#email-support</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/tree/main#email-support"><u>https://github.com/Yash-Chandrani/slash/tree/main#email-support</u></a></td>
 </tr>
 <tr class="odd">
 <td>Are e-mails to your support e-mail address received by more than one
@@ -357,7 +356,7 @@ there are more than one owners of this email id.</td>
 users, so they can view bug reports and feature requests?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/issues"><u>https://github.com/TommasU/slash/issues</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/issues"><u>https://github.com/Yash-Chandrani/slash/issues</u></a></td>
 </tr>
 <tr class="odd">
 <td>Is your software’s architecture and design modular?</td>
@@ -411,33 +410,33 @@ conventions or standards?</td>
 accessibility conventions or standards?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash#readme"><u>https://github.com/TommasU/slash#readme</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#readme"><u>https://github.com/Yash-Chandrani/slash#readme</u></a></td>
 </tr>
 <tr class="even">
 <td>Is your source code stored in a repository under revision<br />
 control?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash"><u>https://github.com/TommasU/slash</u></a></td>
+href="https://github.com/Yash-Chandrani/slash"><u>https://github.com/Yash-Chandrani/slash</u></a></td>
 </tr>
 <tr class="odd">
 <td>Is each source code release a snapshot of the repository?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/releases"><u>https://github.com/TommasU/slash/releases</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/releases"><u>https://github.com/Yash-Chandrani/slash/releases</u></a></td>
 </tr>
 <tr class="even">
 <td>Are releases tagged in the repository?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/releases"><u>https://github.com/TommasU/slash/releases</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/releases"><u>https://github.com/Yash-Chandrani/slash/releases</u></a></td>
 </tr>
 <tr class="odd">
 <td>Is there a branch of the repository that is always stable?<br />
 (i.e. tests always pass, code always builds successfully)</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/branches"><u>https://github.com/TommasU/slash/branches</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/branches"><u>https://github.com/Yash-Chandrani/slash/branches</u></a></td>
 </tr>
 <tr class="even">
 <td>Do you back-up your repository?</td>
@@ -450,7 +449,7 @@ href="https://zenodo.org/record/5739350"><u>https://zenodo.org/record/5739350</u
 your software from the source code?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash#rocket-installation"><u>https://github.com/TommasU/slash#rocket-installation</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#rocket-installation"><u>https://github.com/Yash-Chandrani/slash#rocket-installation</u></a></td>
 </tr>
 <tr class="even">
 <td>Can you build, or package, your software using an<br />
@@ -471,14 +470,14 @@ your software?</td>
 <td>Does your documentation list all third-party dependencies?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/requirements.txt"><u>https://github.com/TommasU/slash/blob/main/requirements.txt</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/requirements.txt"><u>https://github.com/Yash-Chandrani/slash/blob/main/requirements.txt</u></a></td>
 </tr>
 <tr class="odd">
 <td>Does your documentation list the version number for all<br />
 third-party dependencies?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/requirements.txt"><u>https://github.com/TommasU/slash/blob/main/requirements.txt</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/requirements.txt"><u>https://github.com/Yash-Chandrani/slash/blob/main/requirements.txt</u></a></td>
 </tr>
 <tr class="even">
 <td>Does your software list the web address, and licences for<br />
@@ -500,7 +499,7 @@ been built or deployed to show whether the build or<br />
 deployment has been successful?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/tree/main/tests"><u>https://github.com/TommasU/slash/tree/main/tests</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/tree/main/tests"><u>https://github.com/Yash-Chandrani/slash/tree/main/tests</u></a></td>
 </tr>
 <tr class="odd">
 <td>Do you have an automated test suite for your software?</td>
@@ -512,7 +511,7 @@ href="https://github.com/TommasU/slash/tree/main/tests"><u>https://github.com/To
 your tests on the latest version of the source code?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/actions/workflows/code_cov.yml"><u>https://github.com/TommasU/slash/actions/workflows/code_cov.yml</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/actions/workflows/code_cov.yml"><u>https://github.com/Yash-Chandrani/slash/actions/workflows/code_cov.yml</u></a></td>
 </tr>
 <tr class="odd">
 <td>Do you use continuous integration, automatically running<br />
@@ -538,7 +537,7 @@ software?e.g. release announcements, publications,<br />
 workshops, conference presentations</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash#readme"><u>https://github.com/TommasU/slash#readme</u></a></td>
+href="https://github.com/Yash-Chandrani/slash#readme"><u>https://github.com/Yash-Chandrani/slash#readme</u></a></td>
 </tr>
 <tr class="odd">
 <td>Does your website state how many projects and users are<br />
@@ -556,7 +555,7 @@ associated with your project?</td>
 website?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/tree/main#sparkles-contributors"><u>https://github.com/TommasU/slash/tree/main#sparkles-contributors</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/tree/main#sparkles-contributors"><u>https://github.com/Yash-Chandrani/slash/tree/main#sparkles-contributors</u></a></td>
 </tr>
 <tr class="even">
 <td>Do you list your project's publications on your website or<br />
@@ -591,32 +590,32 @@ documentation updates, tutorials) from people who are not<br />
 part of your project?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md"><u>https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/CONTRIBUTING.md"><u>https://github.com/Yash-Chandrani/slash/blob/main/CONTRIBUTING.md</u></a></td>
 </tr>
 <tr class="odd">
 <td>Do you have a contributions policy?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md"><u>https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/CONTRIBUTING.md"><u>https://github.com/Yash-Chandrani/slash/blob/main/CONTRIBUTING.md</u></a></td>
 </tr>
 <tr class="even">
 <td>Is your contributions' policy publicly available?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md"><u>https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/CONTRIBUTING.md"><u>https://github.com/Yash-Chandrani/slash/blob/main/CONTRIBUTING.md</u></a></td>
 </tr>
 <tr class="odd">
 <td>Do contributors keep the copyright/IP of their contributions?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/LICENSE"><u>https://github.com/TommasU/slash/blob/main/LICENSE</u></a>E</td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/LICENSE"><u>https://github.com/Yash-Chandrani/slash/blob/main/LICENSE</u></a>E</td>
 </tr>
 <tr class="even">
 <td>Does your website and documentation clearly state the<br />
 copyright owners of your software and documentation?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/tree/main#sparkles-contributors"><u>https://github.com/TommasU/slash/tree/main#sparkles-contributors</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/tree/main#sparkles-contributors"><u>https://github.com/Yash-Chandrani/slash/tree/main#sparkles-contributors</u></a></td>
 </tr>
 <tr class="odd">
 <td>Does each of your source code files include a copyright<br />
@@ -629,7 +628,7 @@ statement?</td>
 licence of your software?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/blob/main/LICENSE"><u>https://github.com/TommasU/slash/blob/main/LICENSE</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/blob/main/LICENSE"><u>https://github.com/Yash-Chandrani/slash/blob/main/LICENSE</u></a></td>
 </tr>
 <tr class="odd">
 <td>Is your software released under an open source licence?</td>
@@ -658,7 +657,7 @@ roadmap (a list of project and development milestones<br />
 for the next 3, 6 and 12 months)?</td>
 <td>3</td>
 <td><a
-href="https://github.com/TommasU/slash/tree/main#muscle-whats-next-for-future-development"><u>https://github.com/TommasU/slash/tree/main#muscle-whats-next-for-future-development</u></a></td>
+href="https://github.com/Yash-Chandrani/slash/tree/main#muscle-whats-next-for-future-development"><u>https://github.com/Yash-Chandrani/slash/tree/main#muscle-whats-next-for-future-development</u></a></td>
 </tr>
 <tr class="even">
 <td>Does your website or documentation describe how your<br />
