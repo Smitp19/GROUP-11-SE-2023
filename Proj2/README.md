@@ -31,7 +31,7 @@ GROUP 11
 <td>Video</td>
 <td>2</td>
 <td><a
-href="https://ncsu.zoom.us/rec/share/LX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-zdzuYhFoxz8k6mHf_vcJOj.QlqORp3KuCJi_boa?startTime=1638480222000"><u>https://ncsu.zoom.us/rec/share/LX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-zdzuYhFoxz8k6mHf_vcJOj.QlqORp3KuCJi_boa?startTime=1638480222000</u></a></td>
+href="https://www.youtube.com/watch?v=66GaChfVFrY&ab_channel=SmitSanjaybhaiPatel"><u>https://www.youtube.com/watch?v=66GaChfVFrY&ab_channel=SmitSanjaybhaiPatel</u></a></td>
 </tr>
 <tr class="odd">
 <td>Workload is spread over the whole team</td>
@@ -87,7 +87,7 @@ href="https://github.com/Yash-Chandrani/slash#readme"><u>https://github.com/Yash
 examples on how to do X,Y,Z</td>
 <td>3</td>
 <td><a
-href="https://ncsu.zoom.us/rec/share/LX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-zdzuYhFoxz8k6mHf_vcJOj.QlqORp3KuCJi_boa?startTime=1638480222000"><u>https://ncsu.zoom.us/rec/share/LX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-zdzuYhFoxz8k6mHf_vcJOj.QlqORp3KuCJi_boa?startTime=1638480222000</u></a></td>
+href="https://www.youtube.com/watch?v=66GaChfVFrY&ab_channel=SmitSanjaybhaiPatel"><u>https://www.youtube.com/watch?v=66GaChfVFrY&ab_channel=SmitSanjaybhaiPatel</u></a></td>
 </tr>
 <tr class="even">
 <td>Docs: why: docs tell a story, motivate the whole thing, deliver a
@@ -100,7 +100,7 @@ punchline that makes you want to rush out and use the thing</td>
 people why they want to work on your code.</td>
 <td>1</td>
 <td><a
-href="https://ncsu.zoom.us/rec/share/LX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-zdzuYhFoxz8k6mHf_vcJOj.QlqORp3KuCJi_boa?startTime=1638480222000"><u>https://ncsu.zoom.us/rec/share/LX3fKUKuKso1_XNpdK2TvEdADZzpYdMughe_9e_f3-zdzuYhFoxz8k6mHf_vcJOj.QlqORp3KuCJi_boa?startTime=1638480222000</u></a></td>
+href="https://www.youtube.com/watch?v=66GaChfVFrY&ab_channel=SmitSanjaybhaiPatel"><u>https://www.youtube.com/watch?v=66GaChfVFrY&ab_channel=SmitSanjaybhaiPatel</u></a></td>
 </tr>
 <tr class="even">
 <td>Use of version control tools</td>
