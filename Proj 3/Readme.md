@@ -1,3 +1,5 @@
+[![Watch the video]](https://youtu.be/tkT-axzLmrE)
+
 GROUP 11
 
 - SMIT PATEL (spatel68@ncsu.edu)
